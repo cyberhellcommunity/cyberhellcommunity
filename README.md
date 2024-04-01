@@ -10,8 +10,10 @@
   <a href="mailto:cyberhell@tutanota.com">
     <img src="https://img.shields.io/badge/Email-white?logo=gmail" alt="Gmail"/>
   </a>
+    <div>
     <img src="https://komarev.com/ghpvc/?username=cyberhellcommunity&style=flat-square&color=blue"/>
-</div>
+    </div>
+    </div> 
 </div>
 
 
