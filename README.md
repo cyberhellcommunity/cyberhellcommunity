@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Website-white?logo=firefox" alt="Website"/>
   </a>
   <a href="t.me/cyberhellcommunity">
-    <img src="https://img.shields.io/badge/Community-white?logo=telegram" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram%20Community-white?logo=telegram" alt="Telegram"/>
   </a>
   <a href="mailto:cyberhell@tutanota.com">
     <img src="https://img.shields.io/badge/Email-white?logo=gmail" alt="Gmail"/>
