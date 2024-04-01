@@ -1,8 +1,19 @@
-Welcome to C¥B€R H€LL 👋, home of cyber devils since 2020.
+<div id="header" align="center">
+  <img src="https://i.ibb.co/sgcWGY7/cyberhell.png" width="100"/>
+</div>
 
-
-### Owner:
-
-<!-- Contact Owner -->
-[![React Badge](https://img.shields.io/badge/-Devil-61DBFB?style=for-the-badge&labelColor=black&logo=telegram&logoColor=61DBFB)](https://t.me/devil_anon) 
+<div id="badges">
+  <a href="https://cyberhell.pages.dev">
+    <img src="https://img.shields.io/badge/Website-white?logo=firefox
+" alt="Website Badge"/>
+  </a>
+  <a href="t.me/cyberhellcommunity">
+    <img src="https://img.shields.io/badge/Telegram-white?logo=telegram
+" alt="Telegram Badge"/>
+  </a>
+  <a href="mailto:cyberhell@tutanota.com">
+    <img src="https://img.shields.io/badge/Email-white?logo=gmail
+" alt="Gmail Badge"/>
+  </a>
+</div>
 
