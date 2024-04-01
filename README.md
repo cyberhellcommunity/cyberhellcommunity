@@ -4,7 +4,7 @@
   <a href="https://cyberhell.pages.dev">
     <img src="https://img.shields.io/badge/Website-white?logo=firefox" alt="Website"/>
   </a>
-  <a href="t.me/cyberhellcommunity">
+  <a href="https://t.me/cyberhellcommunity">
     <img src="https://img.shields.io/badge/Telegram%20Community-white?logo=telegram" alt="Telegram"/>
   </a>
   <a href="mailto:cyberhell@tutanota.com">
