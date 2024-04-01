@@ -1,6 +1,8 @@
 <div id="header" align="center">
   <img src="https://i.ibb.co/sgcWGY7/cyberhell.png" width="100"/>
-  <img src="https://komarev.com/ghpvc/?username=cyberhellcommunity&style=flat-square&color=blue" alt=""/>
+<div
+    <img src="https://komarev.com/ghpvc/?username=cyberhellcommunity&style=flat-square&color=blue" alt=""/>
+</div>
   <div id="badges">
   <a href="https://cyberhell.pages.dev">
     <img src="https://img.shields.io/badge/Website-white?logo=firefox" alt="Website"/>
