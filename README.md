@@ -10,11 +10,11 @@
   </a>
   <a href="mailto:cyberhell@tutanota.com">
     <img src="https://img.shields.io/badge/Email-white?logo=gmail" alt="Gmail"/>
+  </a>
     <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-  </a>
 </div>
 </div>
 
