@@ -1,5 +1,5 @@
-<div id="header" style="background-image: url('https://i.ibb.co/h2xmNH2/cyberpunk-city.jpg'); background-size: cover; background-position: center; padding: 20px; color: #00ff00; font-family: 'Courier New', monospace; text-shadow: 0 0 10px #000; display: flex; flex-direction: column; align-items: center;">
-  <img src="https://i.ibb.co/sgcWGY7/cyberhell.png" width="100" style="filter: drop-shadow(0 0 10px #00ff00); margin-bottom: 20px;"/>
+<div id="header" style="background-size: cover; background-position: center; padding: 20px; color: #00ff00; font-family: 'Courier New', monospace; text-shadow: 0 0 10px #000; display: flex; flex-direction: column; align-items: center;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnBpa2U4aGZ1aWwxaHQ3N285Zm9zdW8yMzRlY3V4N3p1dG8wcXA5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zoWM8o6bW4v9KAqRaa/giphy.gif" width="100" style="filter: drop-shadow(0 0 10px #00ff00); margin-bottom: 20px;"/>
   <div id="badges" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; margin-bottom: 10px;">
     <a href="https://cyberhell.pages.dev" style="text-decoration: none; margin: 5px;">
       <img src="https://img.shields.io/badge/Website-white?logo=firefox&style=for-the-badge" alt="Website" style="filter: drop-shadow(0 0 5px #00ff00);"/>
