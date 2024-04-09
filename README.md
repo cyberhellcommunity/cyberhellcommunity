@@ -18,27 +18,3 @@
   </div>
 </div>
 
-<style>
-  @keyframes glitch {
-    0% { clip-path: var(--slice-1); }
-    10% { clip-path: var(--slice-3); }
-    20% { clip-path: var(--slice-1); }
-    30% { clip-path: var(--slice-3); }
-    40% { clip-path: var(--slice-2); }
-    50% { clip-path: var(--slice-3); }
-    60% { clip-path: var(--slice-4); }
-    70% { clip-path: var(--slice-2); }
-    80% { clip-path: var(--slice-5); }
-    90% { clip-path: var(--slice-1); }
-    100% { clip-path: var(--slice-1); }
-  }
-
-  /* Glitch styles */
-  :root {
-    --slice-1: inset(50% 50% 50% 50%);
-    --slice-2: inset(38% 0 15% 0);
-    --slice-3: inset(0 40% 40% 0);
-    --slice-4: inset(0 0 85% 0);
-    --slice-5: inset(39% 0 15% 0);
-  }
-</style>
