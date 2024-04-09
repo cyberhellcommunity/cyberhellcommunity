@@ -11,7 +11,7 @@
   <a href="https://t.me/cyberhellcommunity" style="text-decoration: none; margin-bottom: 10px;">
     <img src="https://img.shields.io/badge/Telegram%20Community-white?logo=telegram&style=for-the-badge" alt="Telegram" style="filter: drop-shadow(0 0 5px #00ff00);"/>
   </a>
-  <div style="margin-bottom: 20px;">
-    <img src="https://komarev.com/ghpvc/?username=cyberhellcommunity&style=flat-square&color=00ff00" style="filter: drop-shadow(0 0 5px #000);"/>
+  <div style="margin-bottom: 20px; background-color: #00ff00; padding: 5px; border-radius: 5px;">
+    <img src="https://komarev.com/ghpvc/?username=cyberhellcommunity&style=flat-square&color=000000&label=PROFILE+VIEWS" style="filter: drop-shadow(0 0 5px #000);"/>
   </div>
 </div>
