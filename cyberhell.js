@@ -1,1 +1,1 @@
-console.log("join t.me/cyberhellcommunity on telegram") 
+const pair = "extra"
