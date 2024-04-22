@@ -1,1 +1,1 @@
-const pair = "extra"
+const pair = "commit test"
